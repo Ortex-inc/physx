@@ -1,3 +1,3 @@
 # physx
-physx is a mini project to simulate physics , speeds , forces , collisions and a body reactions for 2 Dimensions
+physx is a mini project to simulate physics using the fondamental laws , speeds , forces , collisions and a body reactions for 2 Dimensions
 coded in Ocaml 
